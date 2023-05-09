@@ -1,0 +1,137 @@
+2023-05-09 21:58:07,544 - INFO - Started Sniper Class
+2023-05-09 21:58:07,544 - INFO - Setting up accounts
+2023-05-09 21:58:07,545 - DEBUG - Using selector: SelectSelector
+2023-05-09 21:58:07,832 - ERROR - An error occurred: Traceback (most recent call last):
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 691, in <module>
+    sniper = Sniper()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 131, in __init__
+    self.accounts = self._setup_accounts()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 421, in _setup_accounts
+    response = asyncio.run(self._get_user_id(cookies[i]["cookie"]))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 450, in _get_user_id
+    raise Exception("Couldn't scrape user id. Error:", data)
+Exception: ("Couldn't scrape user id. Error:", {'errors': [{'code': 0, 'message': 'Unauthorized'}]})
+
+2023-05-09 21:58:34,102 - INFO - Started Sniper Class
+2023-05-09 21:58:34,103 - INFO - Setting up accounts
+2023-05-09 21:58:34,103 - DEBUG - Using selector: SelectSelector
+2023-05-09 21:58:34,385 - ERROR - An error occurred: Traceback (most recent call last):
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 691, in <module>
+    sniper = Sniper()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 131, in __init__
+    self.accounts = self._setup_accounts()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 421, in _setup_accounts
+    response = asyncio.run(self._get_user_id(cookies[i]["cookie"]))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 450, in _get_user_id
+    raise Exception("Couldn't scrape user id. Error:", data)
+Exception: ("Couldn't scrape user id. Error:", {'errors': [{'code': 0, 'message': 'Unauthorized'}]})
+
+2023-05-09 21:58:38,091 - INFO - Started Sniper Class
+2023-05-09 21:58:38,092 - INFO - Setting up accounts
+2023-05-09 21:58:38,092 - DEBUG - Using selector: SelectSelector
+2023-05-09 21:58:38,370 - ERROR - An error occurred: Traceback (most recent call last):
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 691, in <module>
+    sniper = Sniper()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 131, in __init__
+    self.accounts = self._setup_accounts()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 421, in _setup_accounts
+    response = asyncio.run(self._get_user_id(cookies[i]["cookie"]))
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 450, in _get_user_id
+    raise Exception("Couldn't scrape user id. Error:", data)
+Exception: ("Couldn't scrape user id. Error:", {'errors': [{'code': 0, 'message': 'Unauthorized'}]})
+
+2023-05-09 22:08:11,601 - INFO - Started Sniper Class
+2023-05-09 22:08:11,602 - INFO - Setting up accounts
+2023-05-09 22:08:11,603 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:08:11,889 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:08:11,891 - DEBUG - Scraped x_token
+2023-05-09 22:08:12,186 - DEBUG - Checking Version
+2023-05-09 22:08:12,199 - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2023-05-09 22:08:12,447 - DEBUG - https://raw.githubusercontent.com:443 "GET /efenatuyo/ugc-sniper/main/version HTTP/1.1" 200 27
+2023-05-09 22:08:12,455 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:08:12,461 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:08:12,464 - INFO - Started sniping
+2023-05-09 22:08:36,538 - INFO - Rate limit hit
+2023-05-09 22:08:39,192 - INFO - Rate limit hit
+2023-05-09 22:08:42,005 - INFO - Rate limit hit
+2023-05-09 22:08:44,673 - INFO - Rate limit hit
+2023-05-09 22:08:47,325 - INFO - Rate limit hit
+2023-05-09 22:08:49,996 - INFO - Rate limit hit
+2023-05-09 22:08:52,893 - INFO - Rate limit hit
+2023-05-09 22:08:55,560 - INFO - Rate limit hit
+2023-05-09 22:08:58,235 - INFO - Rate limit hit
+2023-05-09 22:09:00,902 - INFO - Rate limit hit
+2023-05-09 22:10:33,823 - INFO - Rate limit hit
+2023-05-09 22:10:36,626 - INFO - Rate limit hit
+2023-05-09 22:10:39,327 - INFO - Rate limit hit
+2023-05-09 22:10:42,010 - INFO - Rate limit hit
+2023-05-09 22:10:44,800 - INFO - Rate limit hit
+2023-05-09 22:10:47,479 - INFO - Rate limit hit
+2023-05-09 22:10:50,455 - INFO - Rate limit hit
+2023-05-09 22:10:53,109 - INFO - Rate limit hit
+2023-05-09 22:10:55,773 - INFO - Rate limit hit
+2023-05-09 22:10:58,463 - INFO - Rate limit hit
+2023-05-09 22:11:01,131 - INFO - Rate limit hit
+2023-05-09 22:11:03,843 - INFO - Rate limit hit
+2023-05-09 22:12:27,710 - ERROR - An error occurred: Traceback (most recent call last):
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 691, in <module>
+    sniper = Sniper()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 212, in __init__
+    asyncio.run(self.start())
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\asyncio\runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "C:\Users\User\AppData\Local\Programs\Python\Python39\lib\asyncio\base_events.py", line 642, in run_until_complete
+    return future.result()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 677, in start
+    await asyncio.gather(*coroutines)
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 688, in auto_update
+    self._print_stats()
+  File "C:\Users\User\Downloads\ugc-sniper-main (1)\ugc-sniper-main\main.py", line 455, in _print_stats
+    module = getattr(themes, function_name)
+AttributeError: module 'themes' has no attribute 'UGCLooter_theme'
+
+2023-05-09 22:13:09,679 - INFO - Started Sniper Class
+2023-05-09 22:13:09,679 - INFO - Setting up accounts
+2023-05-09 22:13:09,680 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:13:09,967 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:13:09,968 - DEBUG - Scraped x_token
+2023-05-09 22:13:10,240 - DEBUG - Checking Version
+2023-05-09 22:13:10,250 - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2023-05-09 22:13:10,427 - DEBUG - https://raw.githubusercontent.com:443 "GET /efenatuyo/ugc-sniper/main/version HTTP/1.1" 200 27
+2023-05-09 22:13:10,435 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:13:10,440 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:13:10,442 - INFO - Started sniping
+2023-05-09 22:14:10,282 - INFO - Rate limit hit
+2023-05-09 22:14:46,552 - INFO - Started Sniper Class
+2023-05-09 22:14:46,553 - INFO - Setting up accounts
+2023-05-09 22:14:46,553 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:14:46,833 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:14:46,834 - DEBUG - Scraped x_token
+2023-05-09 22:14:47,102 - DEBUG - Checking Version
+2023-05-09 22:14:47,109 - DEBUG - Starting new HTTPS connection (1): raw.githubusercontent.com:443
+2023-05-09 22:14:47,409 - DEBUG - https://raw.githubusercontent.com:443 "GET /efenatuyo/ugc-sniper/main/version HTTP/1.1" 200 27
+2023-05-09 22:14:47,423 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:14:47,428 - DEBUG - Using selector: SelectSelector
+2023-05-09 22:14:47,432 - INFO - Started sniping
+2023-05-09 22:15:03,833 - INFO - Rate limit hit
+2023-05-09 22:15:06,579 - INFO - Rate limit hit
+2023-05-09 22:15:09,245 - INFO - Rate limit hit
+2023-05-09 22:15:11,902 - INFO - Rate limit hit
+2023-05-09 22:16:12,264 - INFO - Rate limit hit
+2023-05-09 22:17:13,560 - INFO - Rate limit hit
+2023-05-09 22:18:13,019 - INFO - Rate limit hit
+2023-05-09 22:18:15,685 - INFO - Rate limit hit
+2023-05-09 22:19:13,497 - INFO - Rate limit hit
+2023-05-09 22:19:16,158 - INFO - Rate limit hit

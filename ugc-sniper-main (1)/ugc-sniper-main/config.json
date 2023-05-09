@@ -1,0 +1,49 @@
+{
+    "webhook": {
+        "enabled": true,
+        "url": "https://discord.com/api/webhooks/1105586763461840997/hBRs5TOlVaupang4J4rnJcQIIuKP7Rf-G7SJ5iUUyJhte1Gsv03E9sUTqZlRSI6HlMPU"
+    },
+    "items": {
+        "start": null,
+        "item_list": [
+            {
+                "id": "13343206862",
+                "max_price": null,
+                "max_buys": null
+            }
+        ]
+    },
+    "accounts": [
+        {
+            "cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_78A6A3C97DE03792CBC147C08A45FF3820A390936D7ECF72E87E969D7E414C527739D80B64EBE46EE28D9272D61ED212FF234F96C9C8EE231FF49BA8A6628BA60ADE5F08A7B444DA2AEA316CF74BF854AB6C6611EACD1AE9A171243E6000F017D191CA2FA8723D68CE154CEBE642C433BEAFA95FF6D51D1258F65001F185D6D2824BA28A08DAF87DE17537116BC7EB519E366B858DC0B41377391BBB6EB0D70960493FB9C622A9710A5E1604D1DBF4FECC01DC8F4F177379FC1539EBA81244995914471E6E9B25D866B65306893C79A76B5B37EF9A0F73DEC62C57F1579B387D12E515D90EBF475CEE64F66488336F337CA7E5F08A0483CECEAF154FDE9117573EE5A0543A7A2619349B29B07D57B29EC17023BE2498692B637FAD18414F658355B370D2B9CAE8DA24E364B79186FC853D99C469309E6A49DB53E0D2C9DD021ABE1E5D4D851A450CA767545AF82339F5323342EE206FF330ECB2D2ECD298CE23B6CEB16F5D2C6B174551996A1DD78102D2AAEEE51A51EA7D2D5302A58BEA59368A65B9E8"
+        }
+    ],
+    "rooms": {
+        "enabled": false,
+        "username": "No Name",
+        "room_code": "ENTER ID OF ROBLOX OR RANDOM ROOM TO JOIN",
+        "item_setup": {
+            "max_price": null,
+            "max_buys": null
+        }
+    },
+    "proxy": {
+        "enabled": false,
+        "timeout_ms": 10000,
+        "proxy_list": "proxies.txt",
+        "authentication": {
+            "enabled": true,
+            "username": "",
+            "password": ""
+        }
+    },
+    "theme": {
+        "name": "UGCLooter_theme",
+        "wait_time": 1
+    },
+    "discord": {
+        "enabled": false,
+        "prefix": "$",
+        "token": ""
+    }
+}
